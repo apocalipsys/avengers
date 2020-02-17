@@ -1,0 +1,4 @@
+# Equipo
+* Walter
+* Carlos
+* Juan
