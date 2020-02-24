@@ -29,3 +29,4 @@
 * El Barto
 * El chapo Guzman
 * Pichon
+* Lazie
