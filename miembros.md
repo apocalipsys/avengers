@@ -22,3 +22,4 @@
 * PacMan
 * Larguirucho
 * Chino
+* Pincho
