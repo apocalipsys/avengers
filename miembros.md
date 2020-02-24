@@ -27,3 +27,4 @@
 * La flaca
 * El gordo Ivan
 * El negro mati (de pedo)
+* El negro Dario
