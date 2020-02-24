@@ -21,3 +21,4 @@
 * Rojelio Rojas
 * PacMan
 * Larguirucho
+* Chino
