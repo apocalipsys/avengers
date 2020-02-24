@@ -30,3 +30,4 @@
 * El chapo Guzman
 * Pichon
 * Lazie
+* Chano
