@@ -18,3 +18,16 @@
 * Wasp
 * Antman
 * Hijitus
+* Peron
+* La Cris Fernandez
+* El papa del Chiqui
+* La mama del Chiqui
+* La flaca
+* El gordo Ivan
+* El negro mati (de pedo)
+* El negro Dario
+* CHAPALELE
+* Chompiras
+* RENATAAAAA!!
+* Changos
+* El mono Navarro Montoya
