@@ -18,3 +18,7 @@
 * Wasp
 * Antman
 * Hijitus
+* Peron
+* Evita
+* Kishtnertcknd
+* La Cris Fernandez
