@@ -18,16 +18,3 @@
 * Wasp
 * Antman
 * Hijitus
-* Rojelio Rojas
-* PacMan
-* Larguirucho
-* Chino
-* Pincho
-* Mochilo
-* Gaspacho
-* Dora
-* El Barto
-* El chapo Guzman
-* Pichon
-* Chompiras
-* Botija
