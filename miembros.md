@@ -19,8 +19,6 @@
 * Antman
 * Hijitus
 * Peron
-* Evita
-* Kishtnertcknd
 * La Cris Fernandez
 * El papa del Chiqui
 * La mama del Chiqui
