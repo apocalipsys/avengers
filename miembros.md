@@ -30,3 +30,4 @@
 * CHAPALELE
 * Chompiras
 * VE
+* CHINGA
