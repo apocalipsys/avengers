@@ -4,3 +4,4 @@
 * Juan
 * Pedro
 * Chamorro
+* Jose Hernandez
